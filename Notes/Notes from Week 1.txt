@@ -1,0 +1,9 @@
+Prefabs: prefabs in Unity are very helpful if you copy and paste the GameObject you created and change the prefab linked to it all the changes will be applied to the GameObjects you have in your Scene.
+---------------
+Rigidbody 2D: adds gravity to the GameObject you add it to, there are 3 body types:
+	-Dynamic: gravity is going to take effect in the GameObject
+	-Kinematic: Use for collisions but we have the control of it
+	-Static: Does not get affected by gravity, stays still
+
+Box Collider 2D: 
+	-isTrigger: works for calling functions on a collision of a GameObject as well as is not going to collide with a solid GameObject
