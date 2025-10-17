@@ -12,17 +12,12 @@ public class PointsManager : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("coin") && collision.name.Contains("PachinkoBall"))
-        {
-            GameManager.Instance.AddToScore(100);
-            Debug.Log($"Collided with: {collision.gameObject.name}, Tag: {collision.gameObject.tag}");
-            Destroy(collision.gameObject);
-        }
-        else
+        if (collision.name.Contains("PachinkoBall"))
         {
             Award(10, collision);
             Destroy(collision.gameObject);
         }
+        
     }
 
     private void Award(int basePoints, Collider2D collision)
