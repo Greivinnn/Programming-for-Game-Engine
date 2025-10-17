@@ -14,6 +14,7 @@ TagManager:
   - timesOnePointFive
   - timesTwo
   - timesFive
+  - coin
   layers:
   - Default
   - TransparentFX
