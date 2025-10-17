@@ -19,6 +19,7 @@ public class GameMechanics : MonoBehaviour
     [SerializeField]
     private GameObject ballPrefab = null;
 
+
     private void Awake()
     {
         startPosition = transform.position;

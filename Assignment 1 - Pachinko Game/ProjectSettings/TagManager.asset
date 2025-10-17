@@ -7,6 +7,13 @@ TagManager:
   - Ball
   - clockwise
   - counterClockwise
+  - moveRight
+  - moveLeft
+  - timesPointFive
+  - timesOne
+  - timesOnePointFive
+  - timesTwo
+  - timesFive
   layers:
   - Default
   - TransparentFX
