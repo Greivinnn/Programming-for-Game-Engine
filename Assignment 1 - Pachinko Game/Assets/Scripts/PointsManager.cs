@@ -12,9 +12,15 @@ public class PointsManager : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.name.Contains("PachinkoBall"))
+        //if (collision.gameObject.tag == "coin")
+        //{
+        //    GameManager.Instance.AddToScore(100);
+        //    Destroy(collision.gameObject);
+        //}
+        if (collision.name.Contains("PachinkoBall"))
         {
             Award(10, collision);
+            Destroy(gameObject);
         }
     }
 
@@ -22,6 +28,5 @@ public class PointsManager : MonoBehaviour
     {
         int finalPpoints = Mathf.RoundToInt(basePoints * scoreMultiplier);
         GameManager.Instance.AddToScore(finalPpoints);
-        Destroy(collision.gameObject);
     }
 }
