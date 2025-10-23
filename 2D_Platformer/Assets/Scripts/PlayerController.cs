@@ -10,13 +10,20 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private GroundCheck groundCheck = null;
 
+    [SerializeField]
+    private Animator animator = null;
+
     private Rigidbody2D rigidBody = null;
     private PlayerInput playerInput = null;
     private InputAction moveAction = null;
     private InputAction jumpAction = null;
+    private float direction = 1.0f;
+    private bool isJumping = false;
+    private bool isFalling = false;
     private void Awake()
     {
         rigidBody = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
         playerInput = new PlayerInput();
         moveAction = playerInput.Player.Move;
         jumpAction = playerInput.Player.Jump;
@@ -43,6 +50,23 @@ public class PlayerController : MonoBehaviour
     {
         Vector2 moveInput = moveAction.ReadValue<Vector2>();
         rigidBody.linearVelocityX = moveInput.x * moveSpeed;
+        
+        if(Mathf.Abs(moveInput.x) > 0.1f)
+        {
+            direction = (moveInput.x > 0.0f) ? 1.0f : -1.0f;
+        }
+        float speed = Mathf.Abs(rigidBody.linearVelocityX);
+
+        if(!groundCheck.IsGrounded && rigidBody.linearVelocityY <= 0.1f)
+        {
+            isFalling = true;
+            isJumping = false;
+        }
+
+        animator.SetFloat("Speed", speed);
+        animator.SetFloat("Direction", direction);
+        animator.SetBool("IsJumping", isJumping);
+        animator.SetBool("IsFalling", isFalling);
     }
 
     private void OnJump(InputAction.CallbackContext context)
@@ -50,6 +74,8 @@ public class PlayerController : MonoBehaviour
         if(groundCheck.IsGrounded && rigidBody.linearVelocityY <= 0.1f)
         {
             rigidBody.linearVelocityY = jumpSpeed;
+            isJumping = true;
+            isFalling = false;
         }
     }
 }
