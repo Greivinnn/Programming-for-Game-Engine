@@ -102,7 +102,7 @@ GameObject:
   - component: {fileID: 4623710403710704100}
   - component: {fileID: 6640015310186403207}
   - component: {fileID: 3103641878676922761}
-  - component: {fileID: 6125735391085907174}
+  - component: {fileID: 1192663576283904991}
   m_Layer: 8
   m_Name: FrogNinja
   m_TagString: Untagged
@@ -213,7 +213,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &6125735391085907174
+--- !u!114 &1192663576283904991
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -222,12 +222,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 6004922452540957022}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8076c8375ddcac94d9381374774de944, type: 3}
+  m_Script: {fileID: 11500000, guid: 258106d4437ab224aa2497eb5c9040cb, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerControl
-  speed: 5
-  jumpSpeed: 15
-  groundCheck: {fileID: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
+  moveSpeed: 10
+  jumpSpeed: 5
+  groundCheck: {fileID: 5740936751505471908}
+  animator: {fileID: 0}
 --- !u!1001 &381625686062115283
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -298,3 +299,14 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5368233987717884141, guid: f84905b11c039fa48a2fce7259462dfa, type: 3}
   m_PrefabInstance: {fileID: 381625686062115283}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &5740936751505471908 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5395357455470448759, guid: f84905b11c039fa48a2fce7259462dfa, type: 3}
+  m_PrefabInstance: {fileID: 381625686062115283}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb82665de9549874daf1b46ca150988a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GroundCheck
