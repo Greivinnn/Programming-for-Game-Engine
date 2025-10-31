@@ -98,5 +98,12 @@ public class PlayerController : MonoBehaviour
             isFalling = false;
         }
     }
+
+    public void Die()
+    {
+        Debug.Log("Player Died");
+
+        transform.position = startingPosition;
+    }
 }
 
