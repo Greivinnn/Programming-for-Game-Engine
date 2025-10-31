@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 733068233931847699}
   - component: {fileID: 3320298521178486352}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -101,7 +101,9 @@ GameObject:
   - component: {fileID: 790255652511252905}
   - component: {fileID: 412775365039441236}
   - component: {fileID: 1407503492849257896}
-  m_Layer: 0
+  - component: {fileID: 1475992343961870260}
+  - component: {fileID: 2430720445957815800}
+  m_Layer: 8
   m_Name: AstroBoy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -117,7 +119,7 @@ Transform:
   m_GameObject: {fileID: 8930417249464736258}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.463, y: -0.742, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -151,7 +153,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!70 &1407503492849257896
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -162,7 +164,7 @@ CapsuleCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: cacdbd0f5bb619e4e99f7a36889b19e0, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -189,6 +191,44 @@ CapsuleCollider2D:
   m_Offset: {x: 0.05, y: -0.24}
   m_Size: {x: 1.43, y: 1.54}
   m_Direction: 0
+--- !u!95 &1475992343961870260
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8930417249464736258}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9235567f615e0fe46af545bc757434e1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2430720445957815800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8930417249464736258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 258106d4437ab224aa2497eb5c9040cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
+  moveSpeed: 10
+  jumpSpeed: 5
+  groundCheck: {fileID: 6930092495341978542}
+  animator: {fileID: 0}
 --- !u!1001 &3083993146668340185
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -246,6 +286,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f84905b11c039fa48a2fce7259462dfa, type: 3}
+--- !u!114 &6930092495341978542 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5395357455470448759, guid: f84905b11c039fa48a2fce7259462dfa, type: 3}
+  m_PrefabInstance: {fileID: 3083993146668340185}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb82665de9549874daf1b46ca150988a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GroundCheck
 --- !u!4 &6967991337035348788 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5368233987717884141, guid: f84905b11c039fa48a2fce7259462dfa, type: 3}

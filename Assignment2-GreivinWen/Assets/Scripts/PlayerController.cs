@@ -26,10 +26,18 @@ public class PlayerController : MonoBehaviour
         rigidBody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         playerInput = new PlayerInput();
-        moveAction = playerInput.Player.Move;
-        jumpAction = playerInput.Player.Jump;
+        if (gameObject.name.Contains("FrogNinja"))
+        {
+            moveAction = playerInput.Player.Move;
+            jumpAction = playerInput.Player.Jump;
+        }
+        else if (gameObject.name.Contains("AstroBoy"))
+        {
+            moveAction = playerInput.Player2.Move;
+            jumpAction = playerInput.Player2.Jump;
+        }
 
-        jumpAction.performed += OnJump;
+            jumpAction.performed += OnJump;
 
         startingPosition = transform.position;
     }
@@ -70,7 +78,7 @@ public class PlayerController : MonoBehaviour
             isFalling = false;
         }
 
-            animator.SetFloat("Speed", speed);
+        animator.SetFloat("Speed", speed);
         animator.SetFloat("Direction", direction);
         animator.SetBool("IsJumping", isJumping);
         animator.SetBool("IsFalling", isFalling);
