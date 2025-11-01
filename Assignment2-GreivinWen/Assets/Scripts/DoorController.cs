@@ -21,13 +21,11 @@ public class DoorController : MonoBehaviour
     {
         if (!moving) return;
 
-        transform.position = Vector3.MoveTowards(
-            transform.position,
-            targetPos,
-            moveSpeed * Time.deltaTime
-        );
+        // Move smoothly toward the target position
+        transform.position = Vector3.MoveTowards(transform.position, targetPos, moveSpeed * Time.deltaTime);
 
-        if (Vector3.Distance(transform.position, targetPos) < 0.01f)
+        // Stop when close enough
+        if (Vector3.Distance(transform.position, targetPos) <= 0.001f)
         {
             transform.position = targetPos;
             moving = false;
@@ -36,6 +34,7 @@ public class DoorController : MonoBehaviour
 
     public void OpenDoor()
     {
+        Debug.Log("Player entered the trigger area, door opened.");
         targetPos = endPos;
         moving = true;
     }

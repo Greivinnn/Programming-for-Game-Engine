@@ -10,7 +10,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             door.OpenDoor();
-            Debug.Log("Player entered the trigger area, door opened.");
         }
     }
 
