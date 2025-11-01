@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: e6fd9e2e0b14485468280f71c2c45b21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8795539528562165576
+    second: JumpLoad-Sheet_0
+  - first:
+      213: -8204205328260441595
+    second: JumpLoad-Sheet_1
+  - first:
+      213: 1959277425867084294
+    second: JumpLoad-Sheet_2
+  - first:
+      213: 2673750342233507234
+    second: JumpLoad-Sheet_3
+  - first:
+      213: 9143598425826298328
+    second: JumpLoad-Sheet_4
+  - first:
+      213: 3151377556839749472
+    second: JumpLoad-Sheet_5
+  - first:
+      213: -6614291703899938080
+    second: JumpLoad-Sheet_6
+  - first:
+      213: -7087651175021813209
+    second: JumpLoad-Sheet_7
+  - first:
+      213: 5254943609167437981
+    second: JumpLoad-Sheet_8
+  - first:
+      213: -7270451494950370990
+    second: JumpLoad-Sheet_9
+  - first:
+      213: 3717889037645876248
+    second: JumpLoad-Sheet_10
+  - first:
+      213: 5153916319835746908
+    second: JumpLoad-Sheet_11
+  - first:
+      213: 453360626737572999
+    second: JumpLoad-Sheet_12
+  - first:
+      213: 9145270531602005004
+    second: JumpLoad-Sheet_13
+  - first:
+      213: 8794198825350699207
+    second: JumpLoad-Sheet_14
+  - first:
+      213: -1030764972376696023
+    second: JumpLoad-Sheet_15
+  - first:
+      213: -3600873635311467632
+    second: JumpLoad-Sheet_16
+  - first:
+      213: 630454596448195109
+    second: JumpLoad-Sheet_17
+  - first:
+      213: -4649918481687749402
+    second: JumpLoad-Sheet_18
+  - first:
+      213: -2513010401061091537
+    second: JumpLoad-Sheet_19
+  - first:
+      213: 7192022111865048015
+    second: JumpLoad-Sheet_20
+  - first:
+      213: 1050548709741133991
+    second: JumpLoad-Sheet_21
+  - first:
+      213: 7574922416634075299
+    second: JumpLoad-Sheet_22
+  - first:
+      213: -1765151371262048236
+    second: JumpLoad-Sheet_23
+  - first:
+      213: -8388291789865743053
+    second: JumpLoad-Sheet_24
+  - first:
+      213: 3188675757435401793
+    second: JumpLoad-Sheet_25
+  - first:
+      213: 3048785425724662699
+    second: JumpLoad-Sheet_26
+  - first:
+      213: 7190131933372269350
+    second: JumpLoad-Sheet_27
+  - first:
+      213: 1542474854252271693
+    second: JumpLoad-Sheet_28
+  - first:
+      213: 1139415008302498215
+    second: JumpLoad-Sheet_29
+  - first:
+      213: 1408134095896379037
+    second: JumpLoad-Sheet_30
+  - first:
+      213: 9120840991149232910
+    second: JumpLoad-Sheet_31
+  - first:
+      213: 1083607209803860580
+    second: JumpLoad-Sheet_32
+  - first:
+      213: -7988318245962565712
+    second: JumpLoad-Sheet_33
+  - first:
+      213: 1552956402262280922
+    second: JumpLoad-Sheet_34
+  - first:
+      213: -441903077434332856
+    second: JumpLoad-Sheet_35
+  - first:
+      213: -5920527451015928410
+    second: JumpLoad-Sheet_36
+  - first:
+      213: 9019882672588165452
+    second: JumpLoad-Sheet_37
+  - first:
+      213: 1056136552216687275
+    second: JumpLoad-Sheet_38
+  - first:
+      213: -4797104325360120683
+    second: JumpLoad-Sheet_39
+  - first:
+      213: 3049533929586816772
+    second: JumpLoad-Sheet_40
+  - first:
+      213: -6457100093820717721
+    second: JumpLoad-Sheet_41
+  - first:
+      213: -5714031589806803553
+    second: JumpLoad-Sheet_42
+  - first:
+      213: 4871432940862595804
+    second: JumpLoad-Sheet_43
+  - first:
+      213: -5299899316559471383
+    second: JumpLoad-Sheet_44
+  - first:
+      213: 262652010570147989
+    second: JumpLoad-Sheet_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847cad7b998001a70800000000000000
+      internalID: 8795539528562165576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a5ba0c8bec42e80800000000000000
+      internalID: -8204205328260441595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602df392070c03b10800000000000000
+      internalID: 1959277425867084294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a548e625c11b1520800000000000000
+      internalID: 2673750342233507234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 11
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9823cc25694ee70800000000000000
+      internalID: 9143598425826298328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0675294f031fbbb20800000000000000
+      internalID: 3151377556839749472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e22b344db05534a0800000000000000
+      internalID: -6614291703899938080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722e1fceeca93ad90800000000000000
+      internalID: -7087651175021813209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 11
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d906223ee5f4de840800000000000000
+      internalID: 5254943609167437981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 12
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25186c6c2ea2a1b90800000000000000
+      internalID: -7270451494950370990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c833ba168989330800000000000000
+      internalID: 3717889037645876248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52f5e51693668740800000000000000
+      internalID: 5153916319835746908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c67d78619aa4600800000000000000
+      internalID: 453360626737572999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c3cf248178aee70800000000000000
+      internalID: 9145270531602005004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 11
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c89f2dec354b0a70800000000000000
+      internalID: 8794198825350699207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b529608bcf1b1f0800000000000000
+      internalID: -1030764972376696023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093c036c180270ec0800000000000000
+      internalID: -3600873635311467632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5229e4c7d13dfb800800000000000000
+      internalID: 630454596448195109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 11
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec5a78f6cb287fb0800000000000000
+      internalID: -4649918481687749402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 12
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2744efca5eff1dd0800000000000000
+      internalID: -2513010401061091537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 11
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb887a71023fc360800000000000000
+      internalID: 7192022111865048015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a08d574c7c449e00800000000000000
+      internalID: 1050548709741133991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 11
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a81e94edc78f1960800000000000000
+      internalID: 7574922416634075299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418c1251e2ce087e0800000000000000
+      internalID: -1765151371262048236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d0ab86f0dc69b80800000000000000
+      internalID: -8388291789865743053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14636d105b3704c20800000000000000
+      internalID: 3188675757435401793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 11
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3e4b801367f4a20800000000000000
+      internalID: 3048785425724662699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623c8d006ea78c360800000000000000
+      internalID: 7190131933372269350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 12
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48dda225b8f76510800000000000000
+      internalID: 1542474854252271693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a18e95c9e300df00800000000000000
+      internalID: 1139415008302498215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 11
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ef406ef72ba8310800000000000000
+      internalID: 1408134095896379037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e039542ae8cb39e70800000000000000
+      internalID: 9120840991149232910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a4960240fb90f00800000000000000
+      internalID: 1083607209803860580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 11
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b731a411eac32190800000000000000
+      internalID: -7988318245962565712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 11
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada0384be953d8510800000000000000
+      internalID: 1552956402262280922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849ef5c0e7b0ed9f0800000000000000
+      internalID: -441903077434332856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a52f3fc6af06dda0800000000000000
+      internalID: -5920527451015928410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c419157508f0d2d70800000000000000
+      internalID: 9019882672588165452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 11
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba27e2d399628ae00800000000000000
+      internalID: 1056136552216687275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c8b6048034d6db0800000000000000
+      internalID: -4797104325360120683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407f58ba3fe125a20800000000000000
+      internalID: 3049533929586816772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765bca40da5c366a0800000000000000
+      internalID: -6457100093820717721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 11
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9574361b8ea3b0b0800000000000000
+      internalID: -5714031589806803553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd26043237eca9340800000000000000
+      internalID: 4871432940862595804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec1323d6a9f276b0800000000000000
+      internalID: -5299899316559471383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpLoad-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598639dac9025a300800000000000000
+      internalID: 262652010570147989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JumpLoad-Sheet_0: 8795539528562165576
+      JumpLoad-Sheet_1: -8204205328260441595
+      JumpLoad-Sheet_10: 3717889037645876248
+      JumpLoad-Sheet_11: 5153916319835746908
+      JumpLoad-Sheet_12: 453360626737572999
+      JumpLoad-Sheet_13: 9145270531602005004
+      JumpLoad-Sheet_14: 8794198825350699207
+      JumpLoad-Sheet_15: -1030764972376696023
+      JumpLoad-Sheet_16: -3600873635311467632
+      JumpLoad-Sheet_17: 630454596448195109
+      JumpLoad-Sheet_18: -4649918481687749402
+      JumpLoad-Sheet_19: -2513010401061091537
+      JumpLoad-Sheet_2: 1959277425867084294
+      JumpLoad-Sheet_20: 7192022111865048015
+      JumpLoad-Sheet_21: 1050548709741133991
+      JumpLoad-Sheet_22: 7574922416634075299
+      JumpLoad-Sheet_23: -1765151371262048236
+      JumpLoad-Sheet_24: -8388291789865743053
+      JumpLoad-Sheet_25: 3188675757435401793
+      JumpLoad-Sheet_26: 3048785425724662699
+      JumpLoad-Sheet_27: 7190131933372269350
+      JumpLoad-Sheet_28: 1542474854252271693
+      JumpLoad-Sheet_29: 1139415008302498215
+      JumpLoad-Sheet_3: 2673750342233507234
+      JumpLoad-Sheet_30: 1408134095896379037
+      JumpLoad-Sheet_31: 9120840991149232910
+      JumpLoad-Sheet_32: 1083607209803860580
+      JumpLoad-Sheet_33: -7988318245962565712
+      JumpLoad-Sheet_34: 1552956402262280922
+      JumpLoad-Sheet_35: -441903077434332856
+      JumpLoad-Sheet_36: -5920527451015928410
+      JumpLoad-Sheet_37: 9019882672588165452
+      JumpLoad-Sheet_38: 1056136552216687275
+      JumpLoad-Sheet_39: -4797104325360120683
+      JumpLoad-Sheet_4: 9143598425826298328
+      JumpLoad-Sheet_40: 3049533929586816772
+      JumpLoad-Sheet_41: -6457100093820717721
+      JumpLoad-Sheet_42: -5714031589806803553
+      JumpLoad-Sheet_43: 4871432940862595804
+      JumpLoad-Sheet_44: -5299899316559471383
+      JumpLoad-Sheet_45: 262652010570147989
+      JumpLoad-Sheet_5: 3151377556839749472
+      JumpLoad-Sheet_6: -6614291703899938080
+      JumpLoad-Sheet_7: -7087651175021813209
+      JumpLoad-Sheet_8: 5254943609167437981
+      JumpLoad-Sheet_9: -7270451494950370990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

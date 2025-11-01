@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: b5b747e053c43634f8eb7dddd6bac6c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5899607327520811938
+    second: GlassManac_0
+  - first:
+      213: -3954104846405423385
+    second: GlassManac_1
+  - first:
+      213: 6949349499398883125
+    second: GlassManac_2
+  - first:
+      213: 1198706622385377320
+    second: GlassManac_3
+  - first:
+      213: -3594376225656857558
+    second: GlassManac_4
+  - first:
+      213: -2809716603822096464
+    second: GlassManac_5
+  - first:
+      213: 5784256772744029841
+    second: GlassManac_6
+  - first:
+      213: 8544950208097276512
+    second: GlassManac_7
+  - first:
+      213: -6358635608629003460
+    second: GlassManac_8
+  - first:
+      213: -2214671342225938823
+    second: GlassManac_9
+  - first:
+      213: -6150352947003267722
+    second: GlassManac_10
+  - first:
+      213: -6965587390337489650
+    second: GlassManac_11
+  - first:
+      213: -2650396735527356484
+    second: GlassManac_12
+  - first:
+      213: 5922678333616496898
+    second: GlassManac_13
+  - first:
+      213: 7083054521760069068
+    second: GlassManac_14
+  - first:
+      213: 6962374458980744758
+    second: GlassManac_15
+  - first:
+      213: -6777487503776818812
+    second: GlassManac_16
+  - first:
+      213: -3183019567140290074
+    second: GlassManac_17
+  - first:
+      213: 2901066274814171412
+    second: GlassManac_18
+  - first:
+      213: 1751978543693852216
+    second: GlassManac_19
+  - first:
+      213: -5533919457364139368
+    second: GlassManac_20
+  - first:
+      213: 4166470495306865164
+    second: GlassManac_21
+  - first:
+      213: -5835921999886576002
+    second: GlassManac_22
+  - first:
+      213: -5054142141292323271
+    second: GlassManac_23
+  - first:
+      213: -5656024364290179557
+    second: GlassManac_24
+  - first:
+      213: 160253677466587291
+    second: GlassManac_25
+  - first:
+      213: 2841376250829505411
+    second: GlassManac_26
+  - first:
+      213: -1465435971112938604
+    second: GlassManac_27
+  - first:
+      213: -5076501775895139214
+    second: GlassManac_28
+  - first:
+      213: -4438096178950816972
+    second: GlassManac_29
+  - first:
+      213: 1660658189546554674
+    second: GlassManac_30
+  - first:
+      213: -5081109465051443512
+    second: GlassManac_31
+  - first:
+      213: 4456123753335920417
+    second: GlassManac_32
+  - first:
+      213: -6417267061582143812
+    second: GlassManac_33
+  - first:
+      213: 7061057375471163280
+    second: GlassManac_34
+  - first:
+      213: 3764743434690559768
+    second: GlassManac_35
+  - first:
+      213: 7510713207290600759
+    second: GlassManac_36
+  - first:
+      213: -4027694205987956615
+    second: GlassManac_37
+  - first:
+      213: 2644129726756555522
+    second: GlassManac_38
+  - first:
+      213: 8091306517497366323
+    second: GlassManac_39
+  - first:
+      213: -3274202699985562569
+    second: GlassManac_40
+  - first:
+      213: -4395255360170644559
+    second: GlassManac_41
+  - first:
+      213: 8605910162807959723
+    second: GlassManac_42
+  - first:
+      213: -7838806968053091397
+    second: GlassManac_43
+  - first:
+      213: 3807360852361036801
+    second: GlassManac_44
+  - first:
+      213: -3504454878531473333
+    second: GlassManac_45
+  - first:
+      213: -6241402470411201236
+    second: GlassManac_46
+  - first:
+      213: 5910390991153105164
+    second: GlassManac_47
+  - first:
+      213: -272119354830247395
+    second: GlassManac_48
+  - first:
+      213: -3028155653230100693
+    second: GlassManac_49
+  - first:
+      213: -3683336321595090774
+    second: GlassManac_50
+  - first:
+      213: -6656485933901778349
+    second: GlassManac_51
+  - first:
+      213: 6931481315231367738
+    second: GlassManac_52
+  - first:
+      213: -2697473384698048159
+    second: GlassManac_53
+  - first:
+      213: 7690215183747048390
+    second: GlassManac_54
+  - first:
+      213: -1553704684338269702
+    second: GlassManac_55
+  - first:
+      213: -5482179050901653665
+    second: GlassManac_56
+  - first:
+      213: -2078359238205292025
+    second: GlassManac_57
+  - first:
+      213: 663795222896530677
+    second: GlassManac_58
+  - first:
+      213: 875419581399488709
+    second: GlassManac_59
+  - first:
+      213: -150965583740655589
+    second: GlassManac_60
+  - first:
+      213: -754350921521252928
+    second: GlassManac_61
+  - first:
+      213: 1582562698746496448
+    second: GlassManac_62
+  - first:
+      213: 8846724281035097095
+    second: GlassManac_63
+  - first:
+      213: -6395135449574702881
+    second: GlassManac_64
+  - first:
+      213: -5580620061260727871
+    second: GlassManac_65
+  - first:
+      213: 2156673797542481585
+    second: GlassManac_66
+  - first:
+      213: 6076333962035200484
+    second: GlassManac_67
+  - first:
+      213: -7229392454653387868
+    second: GlassManac_68
+  - first:
+      213: -2945705848676420798
+    second: GlassManac_69
+  - first:
+      213: -7607400617348429685
+    second: GlassManac_70
+  - first:
+      213: -8707918967053077029
+    second: GlassManac_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GlassManac_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab6b2f5b9d9fd150800000000000000
+      internalID: 5899607327520811938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eeaa5987923029c0800000000000000
+      internalID: -3954104846405423385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53785bbec8c017060800000000000000
+      internalID: 6949349499398883125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82050317259a2a010800000000000000
+      internalID: 1198706622385377320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c1d98ddd53e1ec0800000000000000
+      internalID: -3594376225656857558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfbaa5a2a1e109d0800000000000000
+      internalID: -2809716603822096464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1962e0573eec54050800000000000000
+      internalID: 5784256772744029841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d901f0f2c59670800000000000000
+      internalID: 8544950208097276512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bb48b7a9691c7a0800000000000000
+      internalID: -6358635608629003460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976a268e528e341e0800000000000000
+      internalID: -2214671342225938823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675e796a49e85aaa0800000000000000
+      internalID: -6150352947003267722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_11
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 167
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e056efa7c23455f90800000000000000
+      internalID: -6965587390337489650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb779012636e73bd0800000000000000
+      internalID: -2650396735527356484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2012d129094913250800000000000000
+      internalID: 5922678333616496898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5bb365f801c4260800000000000000
+      internalID: 7083054521760069068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ebcc4aea25f9060800000000000000
+      internalID: 6962374458980744758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489dbb3260781f1a0800000000000000
+      internalID: -6777487503776818812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e14c7b6194a3d3d0800000000000000
+      internalID: -3183019567140290074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4191a2c0868a24820800000000000000
+      internalID: 2901066274814171412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e6afef337405810800000000000000
+      internalID: 1751978543693852216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8922030d2919333b0800000000000000
+      internalID: -5533919457364139368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_21
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a59ef27d642d930800000000000000
+      internalID: 4166470495306865164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_22
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e769fd37cd3a20fa0800000000000000
+      internalID: -5835921999886576002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_23
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 135
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e50ff10841cd9b0800000000000000
+      internalID: -5054142141292323271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e778dbec3c181b0800000000000000
+      internalID: -5656024364290179557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90985fded5593200800000000000000
+      internalID: 160253677466587291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3838ce755a89e6720800000000000000
+      internalID: 2841376250829505411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493dbbc9fb9b9abe0800000000000000
+      internalID: -1465435971112938604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c61220884ac89b0800000000000000
+      internalID: -5076501775895139214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b3e9e0a07b862c0800000000000000
+      internalID: -4438096178950816972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_30
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235044923d7db0710800000000000000
+      internalID: 1660658189546554674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cecbb6ccd54c79b0800000000000000
+      internalID: -5081109465051443512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12794c0b1f457dd30800000000000000
+      internalID: 4456123753335920417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbed49d8b9941f6a0800000000000000
+      internalID: -6417267061582143812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0975c9b954aedf160800000000000000
+      internalID: 7061057375471163280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_35
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 103
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ff637153e0f3430800000000000000
+      internalID: 3764743434690559768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d146a5ed96b3860800000000000000
+      internalID: 7510713207290600759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97850349571ca18c0800000000000000
+      internalID: -4027694205987956615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b006f2af5d1b420800000000000000
+      internalID: 2644129726756555522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337cb3878681a4070800000000000000
+      internalID: 8091306517497366323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7345cb8edf1bf82d0800000000000000
+      internalID: -3274202699985562569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bba5e7798ae003c0800000000000000
+      internalID: -4395255360170644559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0b71f62b55e6770800000000000000
+      internalID: 8605910162807959723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3b6562896f63390800000000000000
+      internalID: -7838806968053091397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_44
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10445b0e58676d430800000000000000
+      internalID: 3807360852361036801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_45
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b403fb9fadcad5fc0800000000000000
+      internalID: -3504454878531473333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_46
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2515e285851269a0800000000000000
+      internalID: -6241402470411201236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_47
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 71
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c098957ba4de50250800000000000000
+      internalID: 5910390991153105164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aa5d673ec393cf0800000000000000
+      internalID: -272119354830247395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ff0ac2a74d9f5d0800000000000000
+      internalID: -3028155653230100693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8d703712922ecc0800000000000000
+      internalID: -3683336321595090774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35276698f496f93a0800000000000000
+      internalID: -6656485933901778349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a328f991881913060800000000000000
+      internalID: 6931481315231367738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161900a9f36a09ad0800000000000000
+      internalID: -2697473384698048159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_54
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3ee8117f129ba60800000000000000
+      internalID: 7690215183747048390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_55
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1382c42d1207ae0800000000000000
+      internalID: -1553704684338269702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_56
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f573be3f2336be3b0800000000000000
+      internalID: -5482179050901653665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_57
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7024f13d84f2823e0800000000000000
+      internalID: -2078359238205292025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_58
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f459500d36463900800000000000000
+      internalID: 663795222896530677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_59
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 39
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8dcba987d162c00800000000000000
+      internalID: 875419581399488709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1824d7f999a7edf0800000000000000
+      internalID: -150965583740655589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5bcb665d10885f0800000000000000
+      internalID: -754350921521252928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c58195c36466f510800000000000000
+      internalID: 1582562698746496448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7048be49cd0e5ca70800000000000000
+      internalID: 8846724281035097095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd08795013aef37a0800000000000000
+      internalID: -6395135449574702881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_65
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9b2262f97ad82b0800000000000000
+      internalID: -5580620061260727871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_66
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be89ee646b0eed10800000000000000
+      internalID: 2156673797542481585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_67
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e100cf6b89735450800000000000000
+      internalID: 6076333962035200484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_68
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abde7e8dd90cab90800000000000000
+      internalID: -7229392454653387868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_69
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243f9dc3320ce17d0800000000000000
+      internalID: -2945705848676420798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_70
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b880cdab1751d6690800000000000000
+      internalID: -7607400617348429685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlassManac_71
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 7
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd53ae306d1472780800000000000000
+      internalID: -8707918967053077029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GlassManac_0: 5899607327520811938
+      GlassManac_1: -3954104846405423385
+      GlassManac_10: -6150352947003267722
+      GlassManac_11: -6965587390337489650
+      GlassManac_12: -2650396735527356484
+      GlassManac_13: 5922678333616496898
+      GlassManac_14: 7083054521760069068
+      GlassManac_15: 6962374458980744758
+      GlassManac_16: -6777487503776818812
+      GlassManac_17: -3183019567140290074
+      GlassManac_18: 2901066274814171412
+      GlassManac_19: 1751978543693852216
+      GlassManac_2: 6949349499398883125
+      GlassManac_20: -5533919457364139368
+      GlassManac_21: 4166470495306865164
+      GlassManac_22: -5835921999886576002
+      GlassManac_23: -5054142141292323271
+      GlassManac_24: -5656024364290179557
+      GlassManac_25: 160253677466587291
+      GlassManac_26: 2841376250829505411
+      GlassManac_27: -1465435971112938604
+      GlassManac_28: -5076501775895139214
+      GlassManac_29: -4438096178950816972
+      GlassManac_3: 1198706622385377320
+      GlassManac_30: 1660658189546554674
+      GlassManac_31: -5081109465051443512
+      GlassManac_32: 4456123753335920417
+      GlassManac_33: -6417267061582143812
+      GlassManac_34: 7061057375471163280
+      GlassManac_35: 3764743434690559768
+      GlassManac_36: 7510713207290600759
+      GlassManac_37: -4027694205987956615
+      GlassManac_38: 2644129726756555522
+      GlassManac_39: 8091306517497366323
+      GlassManac_4: -3594376225656857558
+      GlassManac_40: -3274202699985562569
+      GlassManac_41: -4395255360170644559
+      GlassManac_42: 8605910162807959723
+      GlassManac_43: -7838806968053091397
+      GlassManac_44: 3807360852361036801
+      GlassManac_45: -3504454878531473333
+      GlassManac_46: -6241402470411201236
+      GlassManac_47: 5910390991153105164
+      GlassManac_48: -272119354830247395
+      GlassManac_49: -3028155653230100693
+      GlassManac_5: -2809716603822096464
+      GlassManac_50: -3683336321595090774
+      GlassManac_51: -6656485933901778349
+      GlassManac_52: 6931481315231367738
+      GlassManac_53: -2697473384698048159
+      GlassManac_54: 7690215183747048390
+      GlassManac_55: -1553704684338269702
+      GlassManac_56: -5482179050901653665
+      GlassManac_57: -2078359238205292025
+      GlassManac_58: 663795222896530677
+      GlassManac_59: 875419581399488709
+      GlassManac_6: 5784256772744029841
+      GlassManac_60: -150965583740655589
+      GlassManac_61: -754350921521252928
+      GlassManac_62: 1582562698746496448
+      GlassManac_63: 8846724281035097095
+      GlassManac_64: -6395135449574702881
+      GlassManac_65: -5580620061260727871
+      GlassManac_66: 2156673797542481585
+      GlassManac_67: 6076333962035200484
+      GlassManac_68: -7229392454653387868
+      GlassManac_69: -2945705848676420798
+      GlassManac_7: 8544950208097276512
+      GlassManac_70: -7607400617348429685
+      GlassManac_71: -8707918967053077029
+      GlassManac_8: -6358635608629003460
+      GlassManac_9: -2214671342225938823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

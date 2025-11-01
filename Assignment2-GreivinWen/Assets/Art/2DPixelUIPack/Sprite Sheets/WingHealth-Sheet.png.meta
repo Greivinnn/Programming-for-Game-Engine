@@ -1,0 +1,2990 @@
+fileFormatVersion: 2
+guid: 8eeaa3f8416a8c54d8277ba509cce9ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7541804704278842025
+    second: WingHealth-Sheet_0
+  - first:
+      213: -6326419234954652399
+    second: WingHealth-Sheet_1
+  - first:
+      213: 4649518443977771859
+    second: WingHealth-Sheet_2
+  - first:
+      213: -4969977290550424063
+    second: WingHealth-Sheet_3
+  - first:
+      213: -7704219114387951929
+    second: WingHealth-Sheet_4
+  - first:
+      213: 3992017678355801288
+    second: WingHealth-Sheet_5
+  - first:
+      213: -6459181890715934566
+    second: WingHealth-Sheet_6
+  - first:
+      213: 7327142200113438559
+    second: WingHealth-Sheet_7
+  - first:
+      213: -3969524868263942398
+    second: WingHealth-Sheet_8
+  - first:
+      213: -7073609147028540559
+    second: WingHealth-Sheet_9
+  - first:
+      213: 1545378543553134304
+    second: WingHealth-Sheet_10
+  - first:
+      213: 4330896923366096626
+    second: WingHealth-Sheet_11
+  - first:
+      213: 4017462874239856782
+    second: WingHealth-Sheet_12
+  - first:
+      213: -1868355676212668566
+    second: WingHealth-Sheet_13
+  - first:
+      213: 5296793188311137187
+    second: WingHealth-Sheet_14
+  - first:
+      213: 2910611907521881091
+    second: WingHealth-Sheet_15
+  - first:
+      213: -989131592698890129
+    second: WingHealth-Sheet_16
+  - first:
+      213: -6237118616603262164
+    second: WingHealth-Sheet_17
+  - first:
+      213: 1690319861381919571
+    second: WingHealth-Sheet_18
+  - first:
+      213: -6161093256759251400
+    second: WingHealth-Sheet_19
+  - first:
+      213: -4768590916214326697
+    second: WingHealth-Sheet_20
+  - first:
+      213: 3507853294180473018
+    second: WingHealth-Sheet_21
+  - first:
+      213: -8263015172745991235
+    second: WingHealth-Sheet_22
+  - first:
+      213: -3041803901527063844
+    second: WingHealth-Sheet_23
+  - first:
+      213: 3607263466644674139
+    second: WingHealth-Sheet_24
+  - first:
+      213: 4861146348454856201
+    second: WingHealth-Sheet_25
+  - first:
+      213: -8617657919225103592
+    second: WingHealth-Sheet_26
+  - first:
+      213: 2431483736140773451
+    second: WingHealth-Sheet_27
+  - first:
+      213: -8636889196212700333
+    second: WingHealth-Sheet_28
+  - first:
+      213: 3431786859617563715
+    second: WingHealth-Sheet_29
+  - first:
+      213: -3244251615930891491
+    second: WingHealth-Sheet_30
+  - first:
+      213: -7357930512103018341
+    second: WingHealth-Sheet_31
+  - first:
+      213: 2393279317008359795
+    second: WingHealth-Sheet_32
+  - first:
+      213: 1979755175769206140
+    second: WingHealth-Sheet_33
+  - first:
+      213: 6156409387597726176
+    second: WingHealth-Sheet_34
+  - first:
+      213: 6115804157456770959
+    second: WingHealth-Sheet_35
+  - first:
+      213: -1091785466885942157
+    second: WingHealth-Sheet_36
+  - first:
+      213: 1505651161251268658
+    second: WingHealth-Sheet_37
+  - first:
+      213: -6392097654322436149
+    second: WingHealth-Sheet_38
+  - first:
+      213: 6936262074442575164
+    second: WingHealth-Sheet_39
+  - first:
+      213: -3068594606589448836
+    second: WingHealth-Sheet_40
+  - first:
+      213: -1082811749905746366
+    second: WingHealth-Sheet_41
+  - first:
+      213: 1818412373041072634
+    second: WingHealth-Sheet_42
+  - first:
+      213: 2202097304979645128
+    second: WingHealth-Sheet_43
+  - first:
+      213: 3488252669074980913
+    second: WingHealth-Sheet_44
+  - first:
+      213: -3319961309538008493
+    second: WingHealth-Sheet_45
+  - first:
+      213: 6153577533915471703
+    second: WingHealth-Sheet_46
+  - first:
+      213: 6281633923396727388
+    second: WingHealth-Sheet_47
+  - first:
+      213: 172631897500412901
+    second: WingHealth-Sheet_48
+  - first:
+      213: 8365168843773036373
+    second: WingHealth-Sheet_49
+  - first:
+      213: -7409710059014471621
+    second: WingHealth-Sheet_50
+  - first:
+      213: -69042405020866691
+    second: WingHealth-Sheet_51
+  - first:
+      213: 8874712136370074914
+    second: WingHealth-Sheet_52
+  - first:
+      213: 3243414638724714449
+    second: WingHealth-Sheet_53
+  - first:
+      213: -5371848765571910178
+    second: WingHealth-Sheet_54
+  - first:
+      213: 8074617675661439315
+    second: WingHealth-Sheet_55
+  - first:
+      213: -2980432906149349255
+    second: WingHealth-Sheet_56
+  - first:
+      213: 5224054171165270281
+    second: WingHealth-Sheet_57
+  - first:
+      213: -8230002083037199266
+    second: WingHealth-Sheet_58
+  - first:
+      213: -8501251660342324464
+    second: WingHealth-Sheet_59
+  - first:
+      213: -3603961006208871622
+    second: WingHealth-Sheet_60
+  - first:
+      213: 8173178483116844915
+    second: WingHealth-Sheet_61
+  - first:
+      213: 3618835839219012115
+    second: WingHealth-Sheet_62
+  - first:
+      213: 5265791152187763508
+    second: WingHealth-Sheet_63
+  - first:
+      213: -5315881934084195477
+    second: WingHealth-Sheet_64
+  - first:
+      213: -4579116662884532970
+    second: WingHealth-Sheet_65
+  - first:
+      213: 1382213750934636819
+    second: WingHealth-Sheet_66
+  - first:
+      213: -3423977522320899867
+    second: WingHealth-Sheet_67
+  - first:
+      213: 6907195767678040248
+    second: WingHealth-Sheet_68
+  - first:
+      213: 7300818628729478387
+    second: WingHealth-Sheet_69
+  - first:
+      213: -6914635226318321816
+    second: WingHealth-Sheet_70
+  - first:
+      213: 4137707803138856660
+    second: WingHealth-Sheet_71
+  - first:
+      213: 1962795452596283886
+    second: WingHealth-Sheet_72
+  - first:
+      213: 7224270935889560270
+    second: WingHealth-Sheet_73
+  - first:
+      213: 8798194430679943898
+    second: WingHealth-Sheet_74
+  - first:
+      213: -7459949578150053470
+    second: WingHealth-Sheet_75
+  - first:
+      213: 5856307870258347860
+    second: WingHealth-Sheet_76
+  - first:
+      213: 196561705770054464
+    second: WingHealth-Sheet_77
+  - first:
+      213: 3103766369557077754
+    second: WingHealth-Sheet_78
+  - first:
+      213: -7888145903920981920
+    second: WingHealth-Sheet_79
+  - first:
+      213: 4608921561998924202
+    second: WingHealth-Sheet_80
+  - first:
+      213: 2932184289858348872
+    second: WingHealth-Sheet_81
+  - first:
+      213: 3146958704101503658
+    second: WingHealth-Sheet_82
+  - first:
+      213: 1888629061924387429
+    second: WingHealth-Sheet_83
+  - first:
+      213: 466838773580446278
+    second: WingHealth-Sheet_84
+  - first:
+      213: 7258172153650437466
+    second: WingHealth-Sheet_85
+  - first:
+      213: -4752561972221489539
+    second: WingHealth-Sheet_86
+  - first:
+      213: -7299622357960030344
+    second: WingHealth-Sheet_87
+  - first:
+      213: -3832805348034571194
+    second: WingHealth-Sheet_88
+  - first:
+      213: -7710808826278461996
+    second: WingHealth-Sheet_89
+  - first:
+      213: 7746422561573729448
+    second: WingHealth-Sheet_90
+  - first:
+      213: 8778910469158083013
+    second: WingHealth-Sheet_91
+  - first:
+      213: 7699729339499947095
+    second: WingHealth-Sheet_92
+  - first:
+      213: -7928005989580449279
+    second: WingHealth-Sheet_93
+  - first:
+      213: -1298831826047502649
+    second: WingHealth-Sheet_94
+  - first:
+      213: 1942356597836965503
+    second: WingHealth-Sheet_95
+  - first:
+      213: -8290515576666496961
+    second: WingHealth-Sheet_96
+  - first:
+      213: -539955683892867470
+    second: WingHealth-Sheet_97
+  - first:
+      213: -3006596884381976142
+    second: WingHealth-Sheet_98
+  - first:
+      213: -7405137946063072094
+    second: WingHealth-Sheet_99
+  - first:
+      213: 358155158510758321
+    second: WingHealth-Sheet_100
+  - first:
+      213: -7127673361431689691
+    second: WingHealth-Sheet_101
+  - first:
+      213: 1844077393590911628
+    second: WingHealth-Sheet_102
+  - first:
+      213: 8409889686964597543
+    second: WingHealth-Sheet_103
+  - first:
+      213: -2801770151682434888
+    second: WingHealth-Sheet_104
+  - first:
+      213: 6107673909744739729
+    second: WingHealth-Sheet_105
+  - first:
+      213: -935218821286454585
+    second: WingHealth-Sheet_106
+  - first:
+      213: -5836400442046220868
+    second: WingHealth-Sheet_107
+  - first:
+      213: 5471068642475333164
+    second: WingHealth-Sheet_108
+  - first:
+      213: 8933989447896233877
+    second: WingHealth-Sheet_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WingHealth-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755f6146490265790800000000000000
+      internalID: -7541804704278842025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1155450893b0438a0800000000000000
+      internalID: -6326419234954652399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b0cedf368668040800000000000000
+      internalID: 4649518443977771859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ecbfe7cf7170bb0800000000000000
+      internalID: -4969977290550424063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cea12fb88d151590800000000000000
+      internalID: -7704219114387951929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c42a778dee766730800000000000000
+      internalID: 3992017678355801288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90ad38ea406c56a0800000000000000
+      internalID: -6459181890715934566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f1988920d3fa560800000000000000
+      internalID: 7327142200113438559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2076c0ce92a69e8c0800000000000000
+      internalID: -3969524868263942398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173f86755fd75dd90800000000000000
+      internalID: -7073609147028540559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eebefbf899427510800000000000000
+      internalID: 1545378543553134304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe71144ecf6a1c30800000000000000
+      internalID: 4330896923366096626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80f26dd235e0c730800000000000000
+      internalID: 4017462874239856782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67524559644216e0800000000000000
+      internalID: -1868355676212668566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab7ef5575df18940800000000000000
+      internalID: 5296793188311137187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3042ddadb12946820800000000000000
+      internalID: 2910611907521881091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68f01d9e06e542f0800000000000000
+      internalID: -989131592698890129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c230363f9ad4179a0800000000000000
+      internalID: -6237118616603262164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353f47e45f8357710800000000000000
+      internalID: 1690319861381919571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e6fca63566f7aa0800000000000000
+      internalID: -6161093256759251400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75af3e7a3df82ddb0800000000000000
+      internalID: -4768590916214326697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab89fc35cf56ea030800000000000000
+      internalID: 3507853294180473018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbefceca7fd35d80800000000000000
+      internalID: -8263015172745991235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2051db77759c5d0800000000000000
+      internalID: -3041803901527063844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b569994c2039f0230800000000000000
+      internalID: 3607263466644674139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906c6d439d2467340800000000000000
+      internalID: 4861146348454856201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b71c0e7cde76880800000000000000
+      internalID: -8617657919225103592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487fc1539d5eb120800000000000000
+      internalID: 2431483736140773451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b3557490b932880800000000000000
+      internalID: -8636889196212700333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344bb5867f720af20800000000000000
+      internalID: 3431786859617563715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c376185a1af2d0800000000000000
+      internalID: -3244251615930891491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b907718ee2163e990800000000000000
+      internalID: -7357930512103018341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371a292dbd2a63120800000000000000
+      internalID: 2393279317008359795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7de6f9d7d0897b10800000000000000
+      internalID: 1979755175769206140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e184af48b5ff6550800000000000000
+      internalID: 6156409387597726176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8761117a73bfd450800000000000000
+      internalID: 6115804157456770959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374545307e239d0f0800000000000000
+      internalID: -1091785466885942157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238490ef0c525e410800000000000000
+      internalID: 1505651161251268658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7e088dc05ba47a0800000000000000
+      internalID: -6392097654322436149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3de9285b9d824060800000000000000
+      internalID: 6936262074442575164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d6e82a6792a65d0800000000000000
+      internalID: -3068594606589448836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246bf30537419f0f0800000000000000
+      internalID: -1082811749905746366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9c94e3b6c4c3910800000000000000
+      internalID: 1818412373041072634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c22828e4db6f8e10800000000000000
+      internalID: 2202097304979645128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130c50b2253c86030800000000000000
+      internalID: 3488252669074980913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35242f467c02de1d0800000000000000
+      internalID: -3319961309538008493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f1bdef926e56550800000000000000
+      internalID: 6153577533915471703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52fa1595c8dc2750800000000000000
+      internalID: 6281633923396727388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebe96fcbcf456200800000000000000
+      internalID: 172631897500412901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 4
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557c14b2ebc071470800000000000000
+      internalID: 8365168843773036373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30cdcba5fb6b2990800000000000000
+      internalID: -7409710059014471621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ea466c46ba0ff0800000000000000
+      internalID: -69042405020866691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225bf24faaf492b70800000000000000
+      internalID: 8874712136370074914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df0d78fd6ce20d20800000000000000
+      internalID: 3243414638724714449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed537fc420c5375b0800000000000000
+      internalID: -5371848765571910178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351f3eeaefdce0070800000000000000
+      internalID: 8074617675661439315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9783518101063a6d0800000000000000
+      internalID: -2980432906149349255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90124b727919f7840800000000000000
+      internalID: 5224054171165270281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54c7dbb5b829cd80800000000000000
+      internalID: -8230002083037199266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 4
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013981f08ac750a80800000000000000
+      internalID: -8501251660342324464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a339f883f882cfdc0800000000000000
+      internalID: -3603961006208871622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377ab0ce686fc6170800000000000000
+      internalID: 8173178483116844915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3121a19b500b83230800000000000000
+      internalID: 3618835839219012115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43beb8f4729d31940800000000000000
+      internalID: 5265791152187763508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bbef2bb813a36b0800000000000000
+      internalID: -5315881934084195477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61df1b308a5b370c0800000000000000
+      internalID: -4579116662884532970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3198e1c451c9e2310800000000000000
+      internalID: 1382213750934636819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0042f95969b70d0800000000000000
+      internalID: -3423977522320899867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8f78e64f94bdf50800000000000000
+      internalID: 6907195767678040248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 4
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc99f68cd7b15560800000000000000
+      internalID: 7300818628729478387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867c4ef95e74a00a0800000000000000
+      internalID: -6914635226318321816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6147e03571c6930800000000000000
+      internalID: 4137707803138856660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9e0c690104d3b10800000000000000
+      internalID: 1962795452596283886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec240eee324c14460800000000000000
+      internalID: 7224270935889560270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada8f794837791a70800000000000000
+      internalID: 8798194430679943898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a97a08126fe87890800000000000000
+      internalID: -7459949578150053470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fb21edaf8c54150800000000000000
+      internalID: 5856307870258347860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0437ed874d35ab200800000000000000
+      internalID: 196561705770054464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afed043911bc21b20800000000000000
+      internalID: 3103766369557077754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 4
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0685654f71da78290800000000000000
+      internalID: -7888145903920981920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa99594ddbd26ff30800000000000000
+      internalID: 4608921561998924202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847ecf4831631b820800000000000000
+      internalID: 2932184289858348872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa23bc0a44e3cab20800000000000000
+      internalID: 3146958704101503658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a7b7c1022c53a10800000000000000
+      internalID: 1888629061924387429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a34a2246b8a7600800000000000000
+      internalID: 466838773580446278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d57f84e153ab460800000000000000
+      internalID: 7258172153650437466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e45b001128b0eb0800000000000000
+      internalID: -4752561972221489539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8770b47f32882ba90800000000000000
+      internalID: -7299622357960030344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6449e21d7d32fcac0800000000000000
+      internalID: -3832805348034571194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddb9b2e934bdf490800000000000000
+      internalID: -7710808826278461996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a47ca60742d08b60800000000000000
+      internalID: 7746422561573729448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9102d1f84f4d970800000000000000
+      internalID: 8778910469158083013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7542c831a0feada60800000000000000
+      internalID: 7699729339499947095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a53ed8e801af190800000000000000
+      internalID: -7928005989580449279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c67771f55f99fde0800000000000000
+      internalID: -1298831826047502649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f766531e803a4fa10800000000000000
+      internalID: 1942356597836965503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3063ff020c22fc80800000000000000
+      internalID: -8290515576666496961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ecc139a21b188f0800000000000000
+      internalID: -539955683892867470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9bd93301c6646d0800000000000000
+      internalID: -3006596884381976142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 4
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4152ca54aab3990800000000000000
+      internalID: -7405137946063072094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 8
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9e185183c68f400800000000000000
+      internalID: 358155158510758321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52689d087da651d90800000000000000
+      internalID: -7127673361431689691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82805f7e9a779910800000000000000
+      internalID: 1844077393590911628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723febfdc1ee5b470800000000000000
+      internalID: 8409889686964597543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b81da634ec1e19d0800000000000000
+      internalID: -2801770151682434888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195a142af01d2c450800000000000000
+      internalID: 6107673909744739729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca16f1ef6f6503f0800000000000000
+      internalID: -935218821286454585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5f6e478b0f00fa0800000000000000
+      internalID: -5836400442046220868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 10
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26558081f32deb40800000000000000
+      internalID: 5471068642475333164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WingHealth-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 4
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59771fc8118ebfb70800000000000000
+      internalID: 8933989447896233877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WingHealth-Sheet_0: -7541804704278842025
+      WingHealth-Sheet_1: -6326419234954652399
+      WingHealth-Sheet_10: 1545378543553134304
+      WingHealth-Sheet_100: 358155158510758321
+      WingHealth-Sheet_101: -7127673361431689691
+      WingHealth-Sheet_102: 1844077393590911628
+      WingHealth-Sheet_103: 8409889686964597543
+      WingHealth-Sheet_104: -2801770151682434888
+      WingHealth-Sheet_105: 6107673909744739729
+      WingHealth-Sheet_106: -935218821286454585
+      WingHealth-Sheet_107: -5836400442046220868
+      WingHealth-Sheet_108: 5471068642475333164
+      WingHealth-Sheet_109: 8933989447896233877
+      WingHealth-Sheet_11: 4330896923366096626
+      WingHealth-Sheet_12: 4017462874239856782
+      WingHealth-Sheet_13: -1868355676212668566
+      WingHealth-Sheet_14: 5296793188311137187
+      WingHealth-Sheet_15: 2910611907521881091
+      WingHealth-Sheet_16: -989131592698890129
+      WingHealth-Sheet_17: -6237118616603262164
+      WingHealth-Sheet_18: 1690319861381919571
+      WingHealth-Sheet_19: -6161093256759251400
+      WingHealth-Sheet_2: 4649518443977771859
+      WingHealth-Sheet_20: -4768590916214326697
+      WingHealth-Sheet_21: 3507853294180473018
+      WingHealth-Sheet_22: -8263015172745991235
+      WingHealth-Sheet_23: -3041803901527063844
+      WingHealth-Sheet_24: 3607263466644674139
+      WingHealth-Sheet_25: 4861146348454856201
+      WingHealth-Sheet_26: -8617657919225103592
+      WingHealth-Sheet_27: 2431483736140773451
+      WingHealth-Sheet_28: -8636889196212700333
+      WingHealth-Sheet_29: 3431786859617563715
+      WingHealth-Sheet_3: -4969977290550424063
+      WingHealth-Sheet_30: -3244251615930891491
+      WingHealth-Sheet_31: -7357930512103018341
+      WingHealth-Sheet_32: 2393279317008359795
+      WingHealth-Sheet_33: 1979755175769206140
+      WingHealth-Sheet_34: 6156409387597726176
+      WingHealth-Sheet_35: 6115804157456770959
+      WingHealth-Sheet_36: -1091785466885942157
+      WingHealth-Sheet_37: 1505651161251268658
+      WingHealth-Sheet_38: -6392097654322436149
+      WingHealth-Sheet_39: 6936262074442575164
+      WingHealth-Sheet_4: -7704219114387951929
+      WingHealth-Sheet_40: -3068594606589448836
+      WingHealth-Sheet_41: -1082811749905746366
+      WingHealth-Sheet_42: 1818412373041072634
+      WingHealth-Sheet_43: 2202097304979645128
+      WingHealth-Sheet_44: 3488252669074980913
+      WingHealth-Sheet_45: -3319961309538008493
+      WingHealth-Sheet_46: 6153577533915471703
+      WingHealth-Sheet_47: 6281633923396727388
+      WingHealth-Sheet_48: 172631897500412901
+      WingHealth-Sheet_49: 8365168843773036373
+      WingHealth-Sheet_5: 3992017678355801288
+      WingHealth-Sheet_50: -7409710059014471621
+      WingHealth-Sheet_51: -69042405020866691
+      WingHealth-Sheet_52: 8874712136370074914
+      WingHealth-Sheet_53: 3243414638724714449
+      WingHealth-Sheet_54: -5371848765571910178
+      WingHealth-Sheet_55: 8074617675661439315
+      WingHealth-Sheet_56: -2980432906149349255
+      WingHealth-Sheet_57: 5224054171165270281
+      WingHealth-Sheet_58: -8230002083037199266
+      WingHealth-Sheet_59: -8501251660342324464
+      WingHealth-Sheet_6: -6459181890715934566
+      WingHealth-Sheet_60: -3603961006208871622
+      WingHealth-Sheet_61: 8173178483116844915
+      WingHealth-Sheet_62: 3618835839219012115
+      WingHealth-Sheet_63: 5265791152187763508
+      WingHealth-Sheet_64: -5315881934084195477
+      WingHealth-Sheet_65: -4579116662884532970
+      WingHealth-Sheet_66: 1382213750934636819
+      WingHealth-Sheet_67: -3423977522320899867
+      WingHealth-Sheet_68: 6907195767678040248
+      WingHealth-Sheet_69: 7300818628729478387
+      WingHealth-Sheet_7: 7327142200113438559
+      WingHealth-Sheet_70: -6914635226318321816
+      WingHealth-Sheet_71: 4137707803138856660
+      WingHealth-Sheet_72: 1962795452596283886
+      WingHealth-Sheet_73: 7224270935889560270
+      WingHealth-Sheet_74: 8798194430679943898
+      WingHealth-Sheet_75: -7459949578150053470
+      WingHealth-Sheet_76: 5856307870258347860
+      WingHealth-Sheet_77: 196561705770054464
+      WingHealth-Sheet_78: 3103766369557077754
+      WingHealth-Sheet_79: -7888145903920981920
+      WingHealth-Sheet_8: -3969524868263942398
+      WingHealth-Sheet_80: 4608921561998924202
+      WingHealth-Sheet_81: 2932184289858348872
+      WingHealth-Sheet_82: 3146958704101503658
+      WingHealth-Sheet_83: 1888629061924387429
+      WingHealth-Sheet_84: 466838773580446278
+      WingHealth-Sheet_85: 7258172153650437466
+      WingHealth-Sheet_86: -4752561972221489539
+      WingHealth-Sheet_87: -7299622357960030344
+      WingHealth-Sheet_88: -3832805348034571194
+      WingHealth-Sheet_89: -7710808826278461996
+      WingHealth-Sheet_9: -7073609147028540559
+      WingHealth-Sheet_90: 7746422561573729448
+      WingHealth-Sheet_91: 8778910469158083013
+      WingHealth-Sheet_92: 7699729339499947095
+      WingHealth-Sheet_93: -7928005989580449279
+      WingHealth-Sheet_94: -1298831826047502649
+      WingHealth-Sheet_95: 1942356597836965503
+      WingHealth-Sheet_96: -8290515576666496961
+      WingHealth-Sheet_97: -539955683892867470
+      WingHealth-Sheet_98: -3006596884381976142
+      WingHealth-Sheet_99: -7405137946063072094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
