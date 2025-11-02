@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1577063405517872606}
   - component: {fileID: 2004766406276671025}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -102,7 +102,7 @@ GameObject:
   - component: {fileID: 2665430482877549962}
   - component: {fileID: 1338000568415182576}
   - component: {fileID: 1389717911440365516}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}

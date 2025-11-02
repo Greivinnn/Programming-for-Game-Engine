@@ -83,8 +83,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SpawnBox
   spawnObject: {fileID: 3934932351991724016, guid: 33676116a30554441a8f723a0e97c0c5, type: 3}
-  maxSpawnNumber: 2
+  maxSpawnNumber: 5
   spawnOffset: {x: 1, y: 0}
+  spawnCooldown: 2
 --- !u!1 &3369912497794644618
 GameObject:
   m_ObjectHideFlags: 0
@@ -165,7 +166,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 857b27bf305c140dab35e3de694fcfbc, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.34117648}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

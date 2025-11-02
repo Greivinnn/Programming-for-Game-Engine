@@ -2,18 +2,23 @@ using UnityEngine;
 
 public class CheckPoint : MonoBehaviour
 {
+    [SerializeField] 
+    private int maxSpots = 2;
     [SerializeField]
-    private bool oneTime = true;
-    
-    private bool activated = false;
+    private int currentSpots = 0;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (activated && oneTime) return;
+        if (currentSpots == maxSpots)
+        {
+            return;
+        }
+        PlayerController player = collision.GetComponent<PlayerController>();
+        if (player != null)
+        {
+            player.SetCheckpoint(transform.position);
 
-        var player = collision.GetComponent<PlayerController>();
-
-        player.SetCheckPoint(transform.position);
-        activated = true;
+            currentSpots++;
+        }
     }
 }

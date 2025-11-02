@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4501462537466000324}
   - component: {fileID: 4891211340042555871}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -100,7 +100,8 @@ GameObject:
   m_Component:
   - component: {fileID: 8382655775394282532}
   - component: {fileID: 3563201315169105011}
-  m_Layer: 0
+  - component: {fileID: 8910807551962295819}
+  m_Layer: 12
   m_Name: CheckPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -169,3 +170,17 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.51, y: 2.98}
   m_EdgeRadius: 0
+--- !u!114 &8910807551962295819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9018294899602236035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1483c223519c68d4bb1feb541539c685, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CheckPoint
+  maxSpots: 2
+  currentSpots: 0

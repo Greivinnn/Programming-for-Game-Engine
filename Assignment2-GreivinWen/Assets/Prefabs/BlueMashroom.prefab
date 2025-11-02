@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6975918412543443095}
   - component: {fileID: 9116402006582933020}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PlayerCheck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88,7 +88,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4471743107565136754}
   - component: {fileID: 5203189219606862188}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -180,7 +180,7 @@ GameObject:
   - component: {fileID: 4142139587608706781}
   - component: {fileID: 551318902189755771}
   - component: {fileID: 4455920270051967889}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BlueMashroom
   m_TagString: BlueMashroom
   m_Icon: {fileID: 0}

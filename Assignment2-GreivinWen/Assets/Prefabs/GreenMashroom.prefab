@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7288100937567732858}
   - component: {fileID: 9108801679503357605}
   - component: {fileID: 3582269389878482736}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GreenMashroom
   m_TagString: GreenMashroom
   m_Icon: {fileID: 0}
@@ -121,8 +121,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48de03fdef2783347a91719309bbfa9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCheck
-  player: {fileID: 0}
-  mashroom: {fileID: 0}
 --- !u!1 &8274555301885039624
 GameObject:
   m_ObjectHideFlags: 0
@@ -133,7 +131,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2754026753988814873}
   - component: {fileID: 2189774166079094096}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -264,6 +262,10 @@ PrefabInstance:
     - target: {fileID: 5706837967177630967, guid: b2d3c3ded93134340a05328b5e00ba62, type: 3}
       propertyPath: m_Name
       value: PlayerCheck
+      objectReference: {fileID: 0}
+    - target: {fileID: 5706837967177630967, guid: b2d3c3ded93134340a05328b5e00ba62, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -41,6 +41,7 @@ public class PlayerController : MonoBehaviour
             jumpAction.performed += OnJump;
 
         startingPosition = transform.position;
+        lastCheckpoint = startingPosition;
     }
 
     private void OnEnable()
@@ -86,8 +87,21 @@ public class PlayerController : MonoBehaviour
 
         if (isFalling && transform.position.y < -100.0f)
         {
-            transform.position = startingPosition;
+            Die();
         }
+    }
+
+    public void SetCheckpoint(Vector3 checkpointPosition)
+    {
+        lastCheckpoint = checkpointPosition;
+
+        // Apply checkpoint to both players
+        PlayerController[] players = FindObjectsOfType<PlayerController>();
+        foreach (var p in players)
+        {
+            p.lastCheckpoint = checkpointPosition;
+        }
+        Debug.Log($"Shared checkpoint set to {lastCheckpoint}");
     }
 
     private void OnJump(InputAction.CallbackContext context)
@@ -102,20 +116,23 @@ public class PlayerController : MonoBehaviour
 
     public void Die()
     {
-        Debug.Log("Player Died");
+        Debug.Log("Player died — resetting both players.");
 
-        rigidBody.linearVelocity = Vector2.zero;
-        transform.position = lastCheckpoint;
-        isJumping = false;
-        isFalling = false;
-        animator.SetBool("IsJumping", false);
-        animator.SetBool("IsFalling", false);
-    }
+        // Find both players
+        // FindObjectsOfType<PlayerController>(); is slow but acceptable here since death is infrequent
+        // this returns a array of the list of players in the scene
+        // do not recommend using this in Update() or frequently called methods
+        PlayerController[] players = FindObjectsOfType<PlayerController>();
 
-    public void SetCheckpoint(Vector3 checkpointPosition)
-    {
-        lastCheckpoint = checkpointPosition;
-        Debug.Log($"{name} checkpoint set to {lastCheckpoint}");
+        foreach (var p in players)
+        {
+            p.rigidBody.linearVelocity = Vector2.zero;
+            p.transform.position = lastCheckpoint;
+            p.isJumping = false;
+            p.isFalling = false;
+            p.animator.SetBool("IsJumping", false);
+            p.animator.SetBool("IsFalling", false);
+        }
     }
 }
 
