@@ -7,10 +7,24 @@ public class GroundCheck : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        ++groundContacts;
+        if (!collision.gameObject.CompareTag("Player"))
+        {
+            ++groundContacts;
+        }
+        else
+        {
+            return;
+        }
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
-        --groundContacts;
+        if (!collision.gameObject.CompareTag("Player"))
+        {
+            --groundContacts;
+        }
+        else
+        {
+            return;
+        }
     }
 }

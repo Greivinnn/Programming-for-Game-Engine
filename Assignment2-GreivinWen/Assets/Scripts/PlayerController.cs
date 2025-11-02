@@ -21,6 +21,7 @@ public class PlayerController : MonoBehaviour
     private bool isJumping = false;
     private bool isFalling = false;
     private Vector3 startingPosition = Vector3.zero;
+    private Vector3 lastCheckpoint = Vector3.zero;
     private void Awake()
     {
         rigidBody = GetComponent<Rigidbody2D>();
@@ -83,7 +84,7 @@ public class PlayerController : MonoBehaviour
         animator.SetBool("IsJumping", isJumping);
         animator.SetBool("IsFalling", isFalling);
 
-        if (isFalling && transform.position.y < -20.0f)
+        if (isFalling && transform.position.y < -100.0f)
         {
             transform.position = startingPosition;
         }
@@ -103,7 +104,18 @@ public class PlayerController : MonoBehaviour
     {
         Debug.Log("Player Died");
 
-        transform.position = startingPosition;
+        rigidBody.linearVelocity = Vector2.zero;
+        transform.position = lastCheckpoint;
+        isJumping = false;
+        isFalling = false;
+        animator.SetBool("IsJumping", false);
+        animator.SetBool("IsFalling", false);
+    }
+
+    public void SetCheckpoint(Vector3 checkpointPosition)
+    {
+        lastCheckpoint = checkpointPosition;
+        Debug.Log($"{name} checkpoint set to {lastCheckpoint}");
     }
 }
 

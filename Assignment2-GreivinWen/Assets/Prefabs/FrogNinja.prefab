@@ -228,7 +228,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   moveSpeed: 10
-  jumpSpeed: 4.5
+  jumpSpeed: 5
   groundCheck: {fileID: 5740936751505471908}
   animator: {fileID: 0}
 --- !u!212 &1595346243962960484
