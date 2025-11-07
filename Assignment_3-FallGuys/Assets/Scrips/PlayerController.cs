@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -31,6 +32,8 @@ public class PlayerController : MonoBehaviour
     private InputAction lookAction = null;
     private float xRotation = 0.0f;
 
+    private Vector3 spawnPos = Vector3.zero;
+
     private void Awake()
     {
         rigidBody = GetComponent<Rigidbody>();
@@ -41,6 +44,8 @@ public class PlayerController : MonoBehaviour
 
         jumpAction.performed += OnJump;
         Cursor.lockState = CursorLockMode.Locked;
+
+        spawnPos = transform.position;
     }
 
     private void OnEnable()
@@ -102,6 +107,11 @@ public class PlayerController : MonoBehaviour
         }
         xRotation = Mathf.Clamp(xRotation, minLookDown, maxLookUp);
         lookTarget.localRotation = Quaternion.Euler(xRotation, 0.0f, 0.0f);
+
+        if (transform.position.y < -20.0f)
+        {
+            Die();
+        }
     }
 
     private void OnJump(InputAction.CallbackContext context)
@@ -112,6 +122,17 @@ public class PlayerController : MonoBehaviour
             velocity.y = jumpSpeed;
             rigidBody.linearVelocity = velocity;
         }
+    }
+
+    private void Die()
+    {
+        PlayerController player = GetComponent<PlayerController>();
+        if (player != null)
+        {
+            player.transform.position = spawnPos;
+            player.rigidBody.linearVelocity = Vector2.zero;
+        }
+
     }
 }
 
