@@ -24,13 +24,18 @@ public class PlayerController : MonoBehaviour
     private float minLookDown = -70.0f;
     [SerializeField]
     private bool invertY = false;
+    [SerializeField]
+    Animator animator = null;
 
     private Rigidbody rigidBody = null;
     private PlayerInput input = null;
     private InputAction moveAction = null;
     private InputAction jumpAction = null;
     private InputAction lookAction = null;
+    private Quaternion rotation = Quaternion.identity;
     private float xRotation = 0.0f;
+    private bool isJumping = false;
+    private bool isFalling = false;
 
     private Vector3 spawnPos = Vector3.zero;
 
@@ -93,9 +98,8 @@ public class PlayerController : MonoBehaviour
             lookDelta = lookInput * lookSensitivity * Time.deltaTime;
         }
 
-        Quaternion rotation = Quaternion.Euler(0.0f, lookDelta.x, 0.0f);
+        rotation = Quaternion.Euler(0.0f, lookDelta.x, 0.0f);
         rotation = rigidBody.rotation * rotation;
-        rigidBody.MoveRotation(rotation);
 
         if (invertY)
         {
@@ -106,12 +110,34 @@ public class PlayerController : MonoBehaviour
             xRotation += lookDelta.y;
         }
         xRotation = Mathf.Clamp(xRotation, minLookDown, maxLookUp);
-        lookTarget.localRotation = Quaternion.Euler(xRotation, 0.0f, 0.0f);
 
         if (transform.position.y < -20.0f)
         {
             Die();
         }
+
+        if(!groundCheck.IsGrounded && rigidBody.linearVelocity.y < 0.1f)
+        {
+            isFalling = true;
+            isJumping = false;
+        }
+        else if (groundCheck.IsGrounded)
+        {
+            isFalling = false;
+        }
+
+        float currentSpeed = moveVelocity.magnitude;
+
+        animator.SetBool("IsJumping", isJumping);
+        animator.SetBool("IsFalling", isFalling);
+        animator.SetFloat("State", currentSpeed / moveSpeed);
+        animator.SetFloat("Vert", currentSpeed / moveSpeed);
+    }
+
+    private void LateUpdate()
+    {
+        lookTarget.localRotation = Quaternion.Euler(xRotation, 0.0f, 0.0f);
+        rigidBody.MoveRotation(rotation);
     }
 
     private void OnJump(InputAction.CallbackContext context)
@@ -121,6 +147,8 @@ public class PlayerController : MonoBehaviour
             Vector3 velocity = rigidBody.linearVelocity;
             velocity.y = jumpSpeed;
             rigidBody.linearVelocity = velocity;
+            isJumping = true;
+            isFalling = false;
         }
     }
 
