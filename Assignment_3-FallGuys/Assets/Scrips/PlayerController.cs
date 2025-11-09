@@ -26,6 +26,8 @@ public class PlayerController : MonoBehaviour
     private bool invertY = false;
     [SerializeField]
     Animator animator = null;
+    [SerializeField]
+    private float checkPointOffset = 4.0f;
 
     private Rigidbody rigidBody = null;
     private PlayerInput input = null;
@@ -38,6 +40,8 @@ public class PlayerController : MonoBehaviour
     private bool isFalling = false;
 
     private Vector3 spawnPos = Vector3.zero;
+    private GameTimer gameTimer = null;
+    private bool gameTimerStarted = false;
 
     private void Awake()
     {
@@ -51,6 +55,8 @@ public class PlayerController : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
 
         spawnPos = transform.position;
+
+        gameTimer = Object.FindFirstObjectByType<GameTimer>();
     }
 
     private void OnEnable()
@@ -71,10 +77,12 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+
         // moveInput.x = a/d or left/right
         // moveInput.y = w/s or up/down
         // moveInput = left joystick / d-pad
         Vector2 moveInput = moveAction.ReadValue<Vector2>();
+
 
         Vector3 fwd = rigidBody.transform.forward;
         Vector3 right = rigidBody.transform.right;
@@ -111,7 +119,13 @@ public class PlayerController : MonoBehaviour
         }
         xRotation = Mathf.Clamp(xRotation, minLookDown, maxLookUp);
 
-        if (transform.position.y < -20.0f)
+        if (!gameTimerStarted && moveAction.ReadValue<Vector2>().sqrMagnitude > 0.1f)
+        {
+            gameTimer.StartTimer();
+            gameTimerStarted = true;
+        }
+
+        if (transform.position.y < -10.0f)
         {
             Die();
         }
@@ -161,6 +175,24 @@ public class PlayerController : MonoBehaviour
             player.rigidBody.linearVelocity = Vector2.zero;
         }
 
+    }
+    public void UpdateCheckpoint(Vector3 newSpawnPos)
+    {
+        spawnPos = newSpawnPos + Vector3.left * checkPointOffset;
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Finish"))
+        {
+            if (gameTimer != null)
+            {
+                gameTimer.StopTimer();
+            }
+
+            // You could also show a UI popup or restart the level here
+            Debug.Log("Final Time: " + gameTimer.GetElapsedTime().ToString("F2"));
+        }
     }
 }
 

@@ -142,6 +142,7 @@ MonoBehaviour:
   minLookDown: -70
   invertY: 1
   animator: {fileID: 5837949996032046902}
+  checkPointOffset: 2.8
 --- !u!1 &6086343154744282795
 GameObject:
   m_ObjectHideFlags: 0
