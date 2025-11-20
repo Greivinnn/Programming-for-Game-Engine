@@ -115,6 +115,14 @@ public class PlayerController : MonoBehaviour
         rigidBody.MoveRotation(rotation);
     }
 
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Enemie"))
+        {
+            Die();
+        }
+    }
+
     private void Die()
     {
         PlayerController player = GetComponent<PlayerController>();

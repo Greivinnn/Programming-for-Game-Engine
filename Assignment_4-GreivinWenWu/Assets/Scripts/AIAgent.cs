@@ -33,6 +33,8 @@ public class AIAgent : MonoBehaviour
     [SerializeField]
     private float viewDistance = 10.0f;
     [SerializeField]
+    private float chaseRadius = 8.0f;
+    [SerializeField]
     private WaypointManager assignedPath = null;
     [SerializeField]
     private bool startAtClosestWaypoint = true;
@@ -113,6 +115,7 @@ public class AIAgent : MonoBehaviour
                 wanderData.currentWaypointIndex = 0;
             }
         }
+        
     }
 
     private void StartSeek()
@@ -128,6 +131,13 @@ public class AIAgent : MonoBehaviour
         if (objective != null)
         {
             Vector3 direction = objective.transform.position - transform.position;
+            float distanceToObjective = direction.magnitude;
+
+            if (distanceToObjective > chaseRadius)
+            {
+                return false;  
+            }
+
             direction.Normalize();
             RaycastHit hitInfo;
             if(Physics.Raycast(transform.position, direction, out hitInfo))
@@ -151,6 +161,14 @@ public class AIAgent : MonoBehaviour
 
     private void DoWander()
     {
+        if (objective != null)
+        {
+            Vector3 directionToObjective = objective.transform.position - transform.position;
+            directionToObjective.Normalize();
+            Debug.DrawLine(transform.position, transform.position + directionToObjective * viewDistance, Color.green);
+        }
+
+
         wanderData.currentUpdateTime -= Time.deltaTime;
         if(wanderData.currentUpdateTime <= 0.0f || Vector3.Distance(transform.position, wanderData.currentTarget) <= 1.0f)
         {
@@ -164,7 +182,14 @@ public class AIAgent : MonoBehaviour
 
     private void DoSeek()
     {
-        if(!CanSeeObjective())
+        if (objective != null)
+        {
+            Vector3 directionToObjective = objective.transform.position - transform.position;
+            directionToObjective.Normalize();
+            Debug.DrawLine(transform.position, transform.position + directionToObjective * viewDistance, Color.red);
+        }
+
+        if (!CanSeeObjective())
         {
             seekData.currentCantFindTime -= Time.deltaTime;
             if(seekData.currentCantFindTime <= 0.0f)
@@ -178,5 +203,12 @@ public class AIAgent : MonoBehaviour
             seekData.lastTargetPosition = objective.transform.position;
         }
         SetDestination(seekData.lastTargetPosition);
+    }
+
+    private void OnDrawGizmos()
+    {
+        // Draw the chase radius as a wire sphere in the Scene view
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(transform.position, chaseRadius);
     }
 }
