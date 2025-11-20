@@ -7,24 +7,7 @@ public class WaypointManager : MonoBehaviour
     [SerializeField]
     private List<Waypoint> waypoints = new List<Waypoint>();
 
-    static public WaypointManager instance = null;
-
-    static public WaypointManager Instance
-    {
-        get { return instance; }
-    }
-
-    private void Awake()
-    {
-        if(instance == null)
-        {
-            instance = this;
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
-    }
+    // removed singleton pattern to be able to have multiple waypoint managers in the scene
 
     public Waypoint GetWaypoint(int index)
     {
@@ -33,6 +16,16 @@ public class WaypointManager : MonoBehaviour
             return waypoints[index];
         }
         return null;
+    }
+
+    public int GetWaypointCount()
+    {
+        return waypoints.Count;
+    }
+
+    public int GetWaypointIndex(Waypoint waypoint)
+    {
+        return waypoints.IndexOf(waypoint);
     }
 
     public Waypoint GetRandomWaypoint()

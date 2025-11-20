@@ -17,6 +17,7 @@ public class AIAgent : MonoBehaviour
         public float moveRange = 5.0f;
         public Vector3 centerPoint = Vector3.zero;
         public Vector3 currentTarget = Vector3.zero;
+        public int currentWaypointIndex = 0;
     }
 
     public class SeekData
@@ -31,6 +32,11 @@ public class AIAgent : MonoBehaviour
     private GameObject objective = null;        // this can be the player
     [SerializeField]
     private float viewDistance = 10.0f;
+    [SerializeField]
+    private WaypointManager assignedPath = null;
+    [SerializeField]
+    private bool startAtClosestWaypoint = true;
+
     private NavMeshAgent agent = null;
     BehaviorState behaviorState = BehaviorState.Wander;
     private WanderData wanderData = new WanderData();
@@ -39,6 +45,23 @@ public class AIAgent : MonoBehaviour
     private void Awake()
     {
         agent = GetComponent<NavMeshAgent>();
+    }
+
+    private void Start()
+    {
+        wanderData.centerPoint = transform.position;
+
+        // Start at the closest waypoint if enabled
+        if (startAtClosestWaypoint && assignedPath != null)
+        {
+            Waypoint closest = assignedPath.GetClosestWaypoint(transform.position);
+            if (closest != null)
+            {
+                wanderData.currentWaypointIndex = assignedPath.GetWaypointIndex(closest);
+            }
+        }
+
+        StartWander();
     }
 
     public void SetDestination(Vector3 destination)
@@ -66,20 +89,36 @@ public class AIAgent : MonoBehaviour
 
     private void StartWander()
     {
-        //Vector2 radiusOffset = UnityEngine.Random.insideUnitCircle.normalized * wanderData.moveRange;
-        //wanderData.currentTarget.x = wanderData.centerPoint.x + radiusOffset.x;
-        //wanderData.currentTarget.z = wanderData.centerPoint.z + radiusOffset.y;
-        //wanderData.currentTarget.y = wanderData.centerPoint.y;
-        Waypoint WAYPOINT = WaypointManager.Instance.GetRandomWaypoint();
-        WanderData currentWanderData = new WanderData();
-        wanderData.currentUpdateTime = UnityEngine.Random.Range(wanderData.minUpdateTime, wanderData.maxUpdateTime);
-        SetDestination(wanderData.currentTarget);
-        behaviorState = BehaviorState.Wander;
+        if (assignedPath == null)
+        {
+            Debug.LogWarning("No waypoint path assigned to AI Agent: " + gameObject.name);
+            return;
+        }
+
+        Waypoint waypoint = assignedPath.GetWaypoint(wanderData.currentWaypointIndex);
+
+        if (waypoint != null)
+        {
+            wanderData.currentTarget = waypoint.transform.position;
+            wanderData.currentUpdateTime = UnityEngine.Random.Range(wanderData.minUpdateTime, wanderData.maxUpdateTime);
+            SetDestination(wanderData.currentTarget);
+            behaviorState = BehaviorState.Wander;
+
+            // Move to next waypoint in sequence
+            wanderData.currentWaypointIndex++;
+
+            // Loop back to start if we've reached the end
+            if (wanderData.currentWaypointIndex >= assignedPath.GetWaypointCount())
+            {
+                wanderData.currentWaypointIndex = 0;
+            }
+        }
     }
 
     private void StartSeek()
     {
         seekData.lastTargetPosition = objective.transform.position;
+        seekData.currentCantFindTime = seekData.cantFindTime;
         SetDestination(seekData.lastTargetPosition);
         behaviorState = BehaviorState.Seek;
     }
@@ -130,7 +169,7 @@ public class AIAgent : MonoBehaviour
             seekData.currentCantFindTime -= Time.deltaTime;
             if(seekData.currentCantFindTime <= 0.0f)
             {
-                DoWander();
+                StartWander();
             }
         }
         else
