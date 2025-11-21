@@ -121,6 +121,11 @@ public class PlayerController : MonoBehaviour
         {
             Die();
         }
+
+        if (other.CompareTag("Finish"))
+        {
+            Time.timeScale = 0.0f;
+        }
     }
 
     private void Die()
